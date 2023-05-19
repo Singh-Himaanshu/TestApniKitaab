@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://apnikitaabapi.onrender.com",
+  "proxy": "https://13.228.225.19",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
